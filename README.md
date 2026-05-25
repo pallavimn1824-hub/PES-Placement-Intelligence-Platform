@@ -1,6 +1,6 @@
-# 🚀 Talencia Global: Digital Intelligence Platform
+# 🚀 Talencia Global: Placement Intelligence Platform
 
-An enterprise-grade, AI-powered digital intelligence system developed during the **Industry-Academia Engineering Initiative** at [Talencia Global](https://talenciaglobal.com).
+An enterprise-grade, AI-powered digital intelligence system developed during the **Industry-Academia Engineering Initiative** at [TalenciaGlobal](https://talenciaglobal.com).
 
 This repository contains the source code for a production-scale platform that integrates complex data architectures, metadata-driven test automation, and an orchestrated multi-agent AI ecosystem.
 
@@ -32,4 +32,4 @@ This project bridges the gap between academic theory and production engineering.
 - Building reliable CI/CD pipelines and writing robust automated tests at scale.
 
 ## 🙏 Acknowledgements
-A massive thank you to my mentors, **Nandakumar** and **Gazala**, for their invaluable guidance, and to the team at **Talencia Global** for providing the opportunity to engineer the future of digital intelligence systems.
+A massive thank you to my mentors, **Nandakumar** and **Gazala**, for their invaluable guidance, and to the team at **TalenciaGlobal** for providing the opportunity to engineer the future of digital intelligence systems.
